@@ -1,4 +1,4 @@
-# Description: This website  Reso/Blog is about the showcase of the best food of our home countries of Colombia & Mauritius. 
+# Description: This website  Resto/Blog is about the showcase of the best food of our home countries of Colombia & Mauritius. 
 
 ## We used Nuxt and Netlify to deploy the site with the repo site and deploy site links below
 
